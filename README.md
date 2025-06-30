@@ -2,7 +2,7 @@
 
 **CineMatch** é um site de recomendação de filmes desenvolvido como parte de um trabalho universitário. O sistema utiliza filtros colaborativos e preferências de usuários para sugerir títulos personalizados, além de oferecer recursos extras como notícias de celebridades, premiações e uma roleta interativa para sugestões aleatórias.
 
-> 🌐 Acesse o projeto online: [**Insira o link aqui**]
+> 🌐 Acesse o projeto online: [(https://fernandaxdea.github.io/cineMachfinal/)]
 
 ## Funcionalidades principais
 
